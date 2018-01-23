@@ -1,0 +1,26 @@
+{
+  "name": "oarkon",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oarkon/meantest.git"
+  },
+  "keywords": [
+    "angular2-try1"
+  ],
+  "author": "oarkon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oarkon/meantest/issues"
+  },
+  "homepage": "https://github.com/oarkon/meantest#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
